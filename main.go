@@ -34,7 +34,7 @@ func main() {
 	// Calculate duration until the next scheduled time
 	duration1 := targetTime1.Sub(now)
 	duration2 := targetTime2.Sub(now)
-
+	fmt.Println("Starting and Waiting??!!")
 	// Start a goroutine to run the task at the scheduled time
 	go func() {
 		// Sleep until the scheduled time
