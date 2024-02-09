@@ -10,18 +10,18 @@ var Data SSendMessage
 func MessagesData() {
 	Data = SSendMessage{
 		Message: []string{
+			"แอปชอบปี้ครับพรี่!!!",
 			"ซื้อของ 1 บาทครับพรี่!!",
 			"ใกล้จะถึงเวลาซื้อของแล้วววลูกพรี่!!!!",
-			"เห็นข้อความไหมมลูกพรี่!!",
 			"เห็นข้อความเถอะลูกพรี่!",
 			"ได้ซื้อของแล้วใช่ไหมม 🥺",
 		},
 		ImageURL: []string{
-			"https://i.pinimg.com/564x/12/67/97/126797f1e5f5cfb82c2e5d51bda95639.jpg",
-			"https://i.pinimg.com/564x/f1/cb/6d/f1cb6d236f7106246cac52514835f169.jpg",
-			"https://i.pinimg.com/564x/5c/d6/87/5cd6876281c90330ebdee4269d6135aa.jpg",
-			"https://i.pinimg.com/564x/db/4a/33/db4a333e8791e3e8e5db7bdd5a0f284f.jpg",
-			"https://i.pinimg.com/564x/2b/c6/72/2bc672dbb357088610428f98c7e57a8d.jpg",
+			"https://i.pinimg.com/564x/4c/62/25/4c6225863c7cd8f363aaa0702c4e87e5.jpg",
+			"https://i.pinimg.com/564x/ee/6a/9d/ee6a9d2d83dbf83cb81479eb7fba6ad8.jpg",
+			"https://i.pinimg.com/564x/01/7c/94/017c944ee7e0ba6d6b2309ee2b48f2c8.jpg",
+			"https://i.pinimg.com/564x/24/e9/39/24e9399036719c39a419540f27d694ad.jpg",
+			"https://i.pinimg.com/736x/e0/7d/e3/e07de3286a1cc4b6ae7c1bdbb19c9898.jpg",
 		},
 	}
 }
